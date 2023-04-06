@@ -14,3 +14,16 @@ PS D:\okc\Downloads\project_openai_codex-main\server> npm install cors dotenv ex
 
 PS D:\okc\Downloads\project_openai_codex-main\server> npm run server   
 
+github deployement
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git init
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git add .
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git commit -m "first commit"
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git branch -M main
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git remote add origin https://github.com/OmkarCode/SmartAI.git
+
+PS D:\okc\Downloads\SearchAI Project\SmartAI> git push -u origin main

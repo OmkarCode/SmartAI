@@ -27,3 +27,8 @@ PS D:\okc\Downloads\SearchAI Project\SmartAI> git branch -M main
 PS D:\okc\Downloads\SearchAI Project\SmartAI> git remote add origin https://github.com/OmkarCode/SmartAI.git
 
 PS D:\okc\Downloads\SearchAI Project\SmartAI> git push -u origin main
+
+
+
+
+git remote add origin https://github.com/OmkarCode/SearchAI.git
